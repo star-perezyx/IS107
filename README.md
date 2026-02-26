@@ -93,7 +93,7 @@ Answer: Adding more products</br>
 
 LABORATORY QUESTION
 
-Part 1 - Technical Questions
+Part A - Technical Questions
 1. What are the five columns in the dataset?</br>
 Answer: Category, Date, Product, Region, and Sales.</br>
 2. What data type is assigned to the "Sales" column?</br>
@@ -102,6 +102,20 @@ Answer: Decimal number.</br>
 Answer: Data/Report View.</br>
 4. What chart type is best for showing trends over time?</br>
 Answer: Line chart.</br>
-5. What aggregation is automatically applied to Sales??</br>
-Answer: .</br>
+5. What aggregation is automatically applied to Sales?</br>
+Answer: SUM.</br>
+
+Part B - Technical Questions
+1. Which region has the highest total sales?</br>
+Answer: West.</br>
+2. Which category has the lowest performance?</br>
+Answer: Office Supplies.</br>
+3. Are sales increasing, decreasing, or stable?</br>
+Answer: Decreasing.</br>
+4. If you were a manager, which region would you prioritize?</br>
+Answer: North.</br>
+5. Provide one actionable recommendation based on the data</br>
+Answer: </br>
+
+
 
