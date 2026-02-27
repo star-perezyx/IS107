@@ -172,7 +172,31 @@ Which region is significantly higher or lower?</br>
 What might explain the difference?</br>
 ## Answer: it might be because the West Region has more Sales than the North Region.
 
+## One-page insight summary(minimum 5 insights)
 
+Insight 1: Regional Disparities in Sales Performance
+
+## The analysis reveals significant variation in sales across different regions. Certain regions consistently generate higher sales volumes, suggesting stronger market demand or more effective sales strategies. In contrast, lower-performing regions may require targeted interventions such as localized marketing campaigns or improved distribution strategies to enhance performance.
+
+Insight 2: Concentration of Sales in Key Product Categories
+
+## Sales revenue is largely concentrated within a limited number of product categories. This indicates that these categories play a dominant role in overall business performance. Prioritizing these high-performing categories in inventory management, promotional activities, and strategic planning may lead to improved revenue outcomes.
+
+Insight 3: Uneven Product-Level Sales Distribution
+
+## Within product categories, individual products demonstrate substantial differences in sales volume. High-performing products represent opportunities for scaling and increased investment, while low-performing products may require reassessment in terms of pricing, promotion, or product relevance.
+
+Insight 4: Sales Patterns Exhibit Variability Over Time
+
+## Rather than showing consistent growth, sales figures fluctuate throughout the dataset. These variations may reflect demand cycles, short-term promotions, or external factors influencing purchasing behavior. Further time-based analysis could help identify recurring patterns and support more accurate forecasting.
+
+Insight 5: Effectiveness of Visual Analytics in Identifying Trends
+
+## The use of column charts and interactive filters enables rapid identification of trends and outliers in the data. Visual analytics significantly reduce the complexity of interpreting large datasets and support faster, more accurate decision-making compared to traditional tabular analysis.
+
+Insight 6: Importance of Data Validation and Correct Data Types
+
+## Ensuring accurate data types for numerical and categorical variables is essential for reliable analysis. Incorrect field classification can lead to misleading visualizations and inaccurate conclusions, highlighting the importance of data preparation prior to analysis.
 
 
 
